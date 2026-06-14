@@ -4,8 +4,6 @@
 
 This project analyzes global sports footwear sales data from 2018 to 2026 using Python and Power BI. The objective is to identify key revenue drivers, evaluate sales performance across brands, categories, countries, and sales channels, and provide actionable business insights.
 
----
-
 ## Business Problem
 
 The company wants to understand:
@@ -17,8 +15,6 @@ The company wants to understand:
 - How discounts impact units sold
 - Customer purchasing behavior
 
----
-
 ## Project Goals
 
 - Identify top-performing brands, categories, and countries
@@ -26,9 +22,6 @@ The company wants to understand:
 - Detect underperforming areas
 - Evaluate customer ratings
 - Provide data-driven business recommendations
-
----
-
 ## Tools Used
 
 - Python
@@ -36,8 +29,6 @@ The company wants to understand:
 - NumPy
 - Matplotlib
 - Power BI
-
----
 
 ## Dataset
 
@@ -54,9 +45,6 @@ Key Fields:
 - Customer Rating
 - Sales Channel
 - Discount Percentage
-
----
-
 ## Data Cleaning
 
 - Checked for missing values
@@ -64,8 +52,6 @@ Key Fields:
 - Extracted year and month from order date
 - Verified data types
 - Performed aggregation and grouping operations
-
----
 
 ## Exploratory Data Analysis
 
@@ -79,8 +65,6 @@ Performed analysis on:
 - Customer Ratings by Brand
 - Discount Percentage vs Units Sold
 
----
-
 ## Key Insights
 
 - Total Revenue generated: $9.08 Million
@@ -93,13 +77,9 @@ Performed analysis on:
 - Revenue distribution across brands was highly competitive.
 - Customer ratings remained consistently high across brands.
 
----
-
 ## Dashboard Preview
 
 (Add Screenshot Here)
-
----
 
 ## Business Recommendations
 
@@ -108,8 +88,6 @@ Performed analysis on:
 - Analyze low-performing markets for growth opportunities.
 - Optimize discount strategies to improve profitability.
 - Continue monitoring customer satisfaction metrics.
-
----
 
 ## Files Included
 
