@@ -76,7 +76,7 @@ Performed analysis on:
 
 ## Dashboard Preview
 
-(Add Screenshot Here)
+<a herf="https://github.com/shagun-s/Retail-Sales-Analysis/blob/main/project3.pbix">Power bi Dashboard</a>
 
 ## Business Recommendations
 
