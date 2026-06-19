@@ -54,7 +54,6 @@ Key Fields:
 ## Exploratory Data Analysis
 
 Performed analysis on:
-
 - Revenue by Year
 - Revenue by Brand
 - Revenue by Category
@@ -62,7 +61,7 @@ Performed analysis on:
 - Revenue by Sales Channel
 - Customer Ratings by Brand
 - Discount Percentage vs Units Sold
-
+<a href="https://github.com/shagun-s/Retail-Sales-Analysis/blob/main/p3.ipynb">EDA in python</a>
 ## Key Insights
 
 - Total Revenue generated: $9.08 Million
