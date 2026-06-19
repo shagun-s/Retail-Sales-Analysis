@@ -61,7 +61,7 @@ Performed analysis on:
 - Revenue by Sales Channel
 - Customer Ratings by Brand
 - Discount Percentage vs Units Sold
-<a href="https://github.com/shagun-s/Retail-Sales-Analysis/blob/main/p3.ipynb">EDA in python</a>
+- <a href="https://github.com/shagun-s/Retail-Sales-Analysis/blob/main/p3.ipynb">EDA in python</a>
 ## Key Insights
 
 - Total Revenue generated: $9.08 Million
