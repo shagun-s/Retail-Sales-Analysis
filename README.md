@@ -34,6 +34,7 @@ The company wants to understand:
 
 Global Sports Footwear Sales Dataset (2018–2026)
 https://github.com/shagun-s/Retail-Sales-Analysis/blob/9cadea51f0c2833fd794aedc4d109ad8cce9aaf9/global_sports_footwear_sales_2018_2026.csv
+
 Key Fields:
 
 - Revenue
