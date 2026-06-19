@@ -76,7 +76,7 @@ Performed analysis on:
 
 ## Dashboard Preview
 
-- <a herf="https://github.com/shagun-s/Retail-Sales-Analysis/blob/main/project3.pbix">Dashboard</a>
+- <a herf="https://github.com/shagun-s/Retail-Sales-Analysis/blob/main/project3.pbix">view Dashboard</a>
 
 ## Business Recommendations
 
