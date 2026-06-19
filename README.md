@@ -32,8 +32,8 @@ The company wants to understand:
 
 ## Dataset
 -<a href="https://github.com/shagun-s/Retail-Sales-Analysis/blob/main/global_sports_footwear_sales_2018_2026.csv">Global Sports Footwear Sales Dataset (2018–2026)</a>
-Key Fields:
 
+Key Fields:
 - Revenue
 - Units Sold
 - Orders
